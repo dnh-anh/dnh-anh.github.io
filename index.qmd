@@ -1,11 +1,56 @@
 ---
-title: "dnh-anh.github.io"
+title: "Anh Dao"
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/dnh-anh/
+    - icon: github
+      text: Github
+      url: https://github.com/dnh-anh
+    - icon: envelope-fill
+      text: Email
+      url: mailto:anh.business@outlook.sg
+image: img/profile.jpeg
 ---
 
-This is a Quarto website.
+### Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm currently a solution architect working at the intersection of Marketing, Technology & Analytics (ML). I'm also a [R](https://www.r-project.org/) & [Shiny](https://shiny.posit.co/) developer with multiple enterprise non-commercial products. Besides, I also provide consultation for SME related to data architecture.
 
-```{r}
-1 + 1
-```
+I'm currently heading Mar-Tech department for [OSIM International](https://www.linkedin.com/company/osim-international-ltd/), where I'm implementing the foundation and driving the roadmap for regional digitalization journey on cloud computing, AI/ML utilization and data maturity Improvement and reshaping the retail landscape to enhance the shopping experience for the enterprise.
+
+Previously, I served as Head of Analytics for BIG Loyalty (now re-branded as [airasia rewards](https://www.linkedin.com/company/airasiarewards/)) , driving the ML & data engineering department to provide data-driven solution for loyalty, particularly in aviation and hospitality.
+
+Before that, I lead regional operation BI team at e-commerce platform [Lazada](https://www.linkedin.com/company/lazada/) (later acquired by Alibaba), driving the insights and data-driven products mainly for logistics and seller operation.
+
+I acquired my MBA from [CSU](https://www.linkedin.com/school/columbia-southern-university/) with main interest in Global Strategic Planning in 2024. I graduated from [HCMUT](https://www.linkedin.com/company/hcmut/) (one of the top university in Vietnam) 's special program from [University of Illinois Urbana-Champaign](https://www.linkedin.com/school/university-of-illinois-urbana-champaign/) , with Degree of Electrical & Electronic Engineering back in 2011.
+
+On this website I keep a list of my technical blog, presentations as well as my resume.
+
+### Key research interests
+
+-   Customer behaviors, personas & sentiment.
+
+-   Solution & data architecture, especially in retail & marketing.
+
+-   Computer vision & Forecasting Models (especially for CLV)
+
+-   My new interest is Education Technology
+
+### R & Shiny projects
+
+-   HR - Human Resource Management System with embedded Analytics
+
+-   CRM - Segmentation Tools with applied Predictive Model
+
+-   CRM - Platform (End-to-End integrated solution)
+
+-   BI - Embedded Business Intelligence System for Sales & Marketing
+
+-   BI - Live TV Dashboard for Sales, Traffic & Social Media Statistics
+
+-   PWA - for Retail Staff (including Fulfillment, Marketing Conversation, etc ...)

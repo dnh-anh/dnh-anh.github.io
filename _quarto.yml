@@ -3,17 +3,27 @@ project:
   output-dir: website
 
 website:
+  page-navigation: true
+  favicon: img/favicon.jpeg
   title: "Anh Dao"
+  description: "-"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
+        
+  open-graph:
+    locale: en_US
+  
+  page-footer:
+    right: "&copy; Copyright 2024, Anh Dao"
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
+    theme:
+      light: [sandstone, theme.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    page-layout: full
 editor: visual
-
